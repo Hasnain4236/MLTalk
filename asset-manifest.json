@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MLTalk/static/css/main.f2ce2723.css",
+    "main.js": "/MLTalk/static/js/main.72e4d65c.js",
+    "static/js/453.69d68ff3.chunk.js": "/MLTalk/static/js/453.69d68ff3.chunk.js",
+    "index.html": "/MLTalk/index.html",
+    "main.f2ce2723.css.map": "/MLTalk/static/css/main.f2ce2723.css.map",
+    "main.72e4d65c.js.map": "/MLTalk/static/js/main.72e4d65c.js.map",
+    "453.69d68ff3.chunk.js.map": "/MLTalk/static/js/453.69d68ff3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ce2723.css",
+    "static/js/main.72e4d65c.js"
+  ]
+}
